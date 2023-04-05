@@ -1,0 +1,189 @@
+
+#top-col1{
+    width: 10.625em;
+}
+
+
+#top-col2{
+    margin-top: 1.5625em;
+    margin-left: 1.25em;
+}
+
+#top-col3{
+    margin-inline-start: auto;
+    width: auto;
+    margin-top: 1.5625em;
+}
+
+#logo-img{
+    margin-top: 0.625em;
+}
+
+#search{
+    margin-top: 2.5em;
+}
+
+#search-bar{
+    width: 28.125em;
+}
+
+#lupa{
+    width: 0.9375em;
+    height: 0.9375em;
+}
+
+#cash-on-delivery{
+    color:gray;
+    font-size: small;
+    margin-top: 0.625em;
+    margin-left: 0.9375em;
+}
+
+#custumer-service{
+    color:gray;
+    font-size: small;
+    margin-top: 0.625em;
+    margin-left: 0.9375em;
+}
+
+#cart-btn{
+    margin-left: 17.5em;
+    margin-top: -5em;
+}
+
+#cart-img{
+    width: 1.25em;
+    height: 1.25em;
+    margin-top: -0.1875em;
+}
+
+#top-col4{
+border: 0.1875em solid gray;
+background-color: rgb(230, 230, 230);
+min-height: 21.875em;
+text-align: center;
+}
+
+#quick-find{
+    margin-top: 0.9375em;   
+}
+
+#find-the-right{
+    margin-top: 0.9375em;
+}
+
+#drop-down1{
+    margin-top: 1.25em;
+}
+
+#search-bar-2{
+    width: 5em;
+    margin-left: -1.875em;
+    margin-top: -1.25em;
+}
+
+#search-bar-3{
+    width: 5em;
+    margin-left: 1.875em;
+    margin-top: -1.25em;
+
+}
+
+#inside-top-col-4-1{
+    margin-top: 1.6875em;
+    margin-left: 1.25em;
+    font-size: large;
+}
+
+#search-btn-quick{
+    margin-top: 1.25em;
+    width: 15.625em;
+    margin-bottom: 1.25em;
+}
+
+#top-col5{
+background-color: gray;
+margin-inline-start: auto;
+}
+
+#top-col6{
+    border: 0.1875em solid gray;
+    text-align: left;
+    width: 12.5em;
+    margin-top: 1.875em;
+    margin-right: 5.625em;
+    }
+
+#descricao-prod{
+    color: blue;
+}
+
+#review-str{
+    height: 0.9375em;
+    width: 0.9375em;
+}
+
+#top-col7{
+    border: 0.1875em solid gray;
+    background-color: rgb(230, 230, 230);
+    margin-top: 1.875em;
+    width: 25em;
+    margin-inline-start: auto;
+    max-height: 51.875em;
+    }
+
+#most-rev{
+    color: rgb(68, 68, 68);
+    font-size: large;
+}
+
+#rev-prod-img{
+    width: 6.25em;
+    height: 6.25em;
+}
+
+#rev-row{
+    margin-top: 1.25em;
+}
+
+#search-bar-4{
+    width:18.75em;
+    margin-top: 0.625em;
+    margin-bottom: 0.625em;
+}
+
+#newsletter{
+    padding-left: 0.625em;
+}
+
+#top-col8{
+    border: 0.1875em solid gray;
+    background-color: rgb(230, 230, 230);
+    margin-top: 1.875em;
+    width: 25em;
+    margin-left: -0.875em;
+    }
+
+#row4{
+    margin-top: 1.5625em;
+    background-color: rgb(236, 236, 236);
+}
+
+#row5{
+    margin-top: 1.5625em;
+    background-color: rgb(211, 211, 211);
+}
+
+#pay-img{
+    height: 1.875em;
+    width: 3.125em;
+    margin-top: 1.25em;
+    margin-left: 1.25em;
+}
+
+#soc-img{
+    height: 2.5em;
+    width: 2.8125em;
+    margin-top: 0.625em;
+
+}
